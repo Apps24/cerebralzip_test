@@ -1,9 +1,7 @@
 import { axiosAuthInstance } from "@/axios.js";
 import { LoaderCircle } from "lucide-react";
 import { useEffect, useState } from "react";
-import { Button } from "../ui/button.js";
 import { Card } from "../ui/card.js";
-import { Separator } from "../ui/separator.js";
 import MultiProgress from "react-multi-progress";
 
 export default function DashboardComp5() {

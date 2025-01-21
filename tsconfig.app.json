@@ -17,7 +17,7 @@
     "moduleResolution": "nodenext",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
-    "moduleDetection": "force",
+    "moduleDetection": "auto",
     "noEmit": true,
     "jsx": "react-jsx",
 
